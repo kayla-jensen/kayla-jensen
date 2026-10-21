@@ -5,7 +5,7 @@
 ### Building reliable AI systems through rigorous evaluation and real-world engineering.
 
 <a href="https://www.linkedin.com/in/kayla-jensen-b060a3393/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<a href="mailto:kaylarjensen21@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-135D66?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kayla" /></a>
+<a href="mailto:kayla.jensen01@yahoo.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-135D66?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kayla" /></a>
 <img src="https://img.shields.io/badge/Location-Kansas%2C%20USA-30395B?style=for-the-badge" alt="Kansas, United States" />
 
 </div>
@@ -83,7 +83,7 @@ Interested in **LLM evaluation**, **AI agent benchmarking**, **GeoAI**, or **tec
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/kayla-jensen-b060a3393/) · [Email](mailto:kaylarjensen21@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/kayla-jensen-b060a3393/) · [Email](mailto:kayla.jensen01@yahoo.com)**
 
 <sub>Quality-first AI • Geospatial thinking • Engineering discipline</sub>
 
