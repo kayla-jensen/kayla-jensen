@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 250" role="img" aria-label="SYSTEMS &amp; QA">
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10233C"/><stop offset="1" stop-color="#142B47"/></linearGradient></defs>
+<rect x="1" y="1" width="618" height="248" rx="20" fill="url(#panel)" stroke="#294765" stroke-width="2"/>
+<circle cx="548" cy="65" r="78" fill="#B8A3FF" opacity=".07"/>
+<rect x="29" y="30" width="61" height="28" rx="9" fill="#263C56"/><text x="59" y="49" text-anchor="middle" font-size="13" font-weight="700" fill="#B8A3FF" font-family="Arial,sans-serif" letter-spacing="2">03</text>
+<text x="29" y="102" font-size="30" font-weight="700" fill="#F3FBFF" font-family="Arial,sans-serif">SYSTEMS &amp; QA</text>
+<text x="29" y="147" font-size="21" fill="#B5C9DC" font-family="Arial,sans-serif">Linux · Test harnesses</text>
+<text x="29" y="178" font-size="21" fill="#B5C9DC" font-family="Arial,sans-serif">Error analysis · A/B testing</text>
+<g transform="translate(486 30)" stroke="#B7A1FF" stroke-width="3" fill="none" opacity=".89"><rect x="4" y="9" width="95" height="64" rx="9"/><path d="M20 27l12 12-12 12M39 51h25M23 90h59M52 73v17" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M29 219H591" stroke="#34546A" stroke-width="1"/>
+<circle cx="35" cy="218" r="3" fill="#B8A3FF"/>
+</svg>

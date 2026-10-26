@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 330" role="img" aria-label="Kayla Jensen, AI/ML and GeoAI Engineer - LLM evaluation, AI agents, geospatial analytics">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1124"/><stop offset="0.58" stop-color="#111D38"/><stop offset="1" stop-color="#142040"/></linearGradient>
+ <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#59F1D8"/><stop offset="0.5" stop-color="#6BCAFF"/><stop offset="1" stop-color="#A99AFE"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#55DFCF" stop-opacity="0.25"/><stop offset="1" stop-color="#55DFCF" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#5DB3C5" opacity=".24"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="330" rx="21"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="330" fill="url(#bg)"/>
+<rect x="720" y="0" width="480" height="330" fill="url(#dots)" opacity=".6"/>
+<circle cx="1038" cy="146" r="260" fill="url(#orb)"/>
+<path d="M0 310H1200" stroke="#5EEBD3" opacity=".22"/>
+<path d="M43 33H73" stroke="#62E9D0" stroke-width="4" stroke-linecap="round"/>
+<text x="86" y="39" fill="#A6BCD0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="2.4">AI / ML ENGINEER   ·   GEOAI</text>
+<text x="43" y="134" fill="#F4FBFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="67" font-weight="700" letter-spacing="-1.5">Kayla Jensen</text>
+<rect x="43" y="157" width="290" height="4" rx="2" fill="url(#glow)"/>
+<text x="43" y="201" fill="#D5E8F4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500">LLM Evaluation <tspan fill="#69EBD7">/</tspan> AI Agents <tspan fill="#69EBD7">/</tspan> GeoAI</text>
+<text x="43" y="242" fill="#A4B9D1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Python automation · Agent benchmarking · Data quality</text>
+<rect x="43" y="267" rx="13" width="380" height="35" fill="#132E3E" stroke="#32636A"/>
+<circle cx="61" cy="284" r="5" fill="#69EED8"/>
+<text x="77" y="289" fill="#B2F8ED" font-size="14" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600" letter-spacing=".5">Reliable AI through rigorous evaluation</text>
+<!-- orbit / contour data design -->
+<circle cx="986" cy="162" r="125" fill="none" stroke="#5EE0DF" stroke-width="1.5" opacity=".31"/>
+<circle cx="986" cy="162" r="92" fill="none" stroke="#8C9DF9" stroke-width="1.2" opacity=".5" stroke-dasharray="6 9"/>
+<circle cx="986" cy="162" r="56" fill="#132943" stroke="#5FE2D9" stroke-width="1.6" opacity=".85"/>
+<path d="M880 125C910 95 943 108 965 126S1035 157 1070 131M874 190C919 168 937 183 972 204S1030 213 1085 179M910 80C934 53 964 66 989 84S1042 100 1062 78" fill="none" stroke="#7AFBE5" opacity=".28" stroke-width="2"/>
+<g stroke="#82EADD" stroke-width="2" fill="none" opacity=".85"><path d="M954 139L984 116L1018 146L1005 189L969 192L954 139ZM984 116L978 165L1018 146M978 165L1005 189M978 165L969 192M954 139L978 165"/></g>
+<g fill="#B8FFF2"><circle cx="954" cy="139" r="4"/><circle cx="984" cy="116" r="4"/><circle cx="1018" cy="146" r="4"/><circle cx="978" cy="165" r="4.5"/><circle cx="1005" cy="189" r="4"/><circle cx="969" cy="192" r="4"/></g>
+<rect x="759" y="82" width="132" height="28" rx="9" fill="#183047" stroke="#335776"/><text x="825" y="101" text-anchor="middle" fill="#BEE5EE" font-size="12" font-family="Arial,sans-serif" letter-spacing=".8">ACCURACY</text>
+<path d="M891 96L914 113" fill="none" stroke="#4C7D95"/>
+<rect x="1069" y="225" width="113" height="28" rx="9" fill="#183047" stroke="#335776"/><text x="1126" y="244" text-anchor="middle" fill="#BEE5EE" font-size="12" font-family="Arial,sans-serif" letter-spacing=".8">QUALITY</text>
+<path d="M1070 227L1050 208" fill="none" stroke="#4C7D95"/>
+<circle cx="1150" cy="39" r="4" fill="#70EEDB" opacity=".95"/><circle cx="1130" cy="57" r="2" fill="#8998FF"/>
+</g></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 250" role="img" aria-label="LLM EVALUATION">
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10233C"/><stop offset="1" stop-color="#142B47"/></linearGradient></defs>
+<rect x="1" y="1" width="618" height="248" rx="20" fill="url(#panel)" stroke="#294765" stroke-width="2"/>
+<circle cx="548" cy="65" r="78" fill="#6AEFDB" opacity=".07"/>
+<rect x="29" y="30" width="61" height="28" rx="9" fill="#263C56"/><text x="59" y="49" text-anchor="middle" font-size="13" font-weight="700" fill="#6AEFDB" font-family="Arial,sans-serif" letter-spacing="2">01</text>
+<text x="29" y="102" font-size="30" font-weight="700" fill="#F3FBFF" font-family="Arial,sans-serif">LLM EVALUATION</text>
+<text x="29" y="147" font-size="21" fill="#B5C9DC" font-family="Arial,sans-serif">Reasoning · Rubric design</text>
+<text x="29" y="178" font-size="21" fill="#B5C9DC" font-family="Arial,sans-serif">Prompt testing · Benchmarking</text>
+<g transform="translate(486 35)" stroke="#69EDDA" stroke-width="3" fill="none" opacity=".88"><rect x="13" y="0" width="75" height="88" rx="9" stroke="#69EDDA"/><path d="M31 23l7 7 14-17M31 51l7 7 14-17M60 25H74M60 53H74" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M29 219H591" stroke="#34546A" stroke-width="1"/>
+<circle cx="35" cy="218" r="3" fill="#6AEFDB"/>
+</svg>
